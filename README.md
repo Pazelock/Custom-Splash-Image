@@ -32,7 +32,7 @@ Open the `Edit Environmental Variables for your account` Windows app (preinstall
 
 Click `Environmental Variables...`.
 
-<img width="540" height="auto" alt="image" src="https://github.com/user-attachments/assets/1135d27b-3a4e-4bc6-aab6-bb19904a3bb3" />
+<img width="340" height="auto" alt="image" src="https://github.com/user-attachments/assets/1135d27b-3a4e-4bc6-aab6-bb19904a3bb3" />
 
 Delete `BLENDER_CUSTOM_SPLASH`. Don't worry, it won't break the add-on.
 
