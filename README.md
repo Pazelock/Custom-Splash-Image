@@ -1,7 +1,7 @@
 # Custom-Splash-Image
 An add-on for Blender that lets you change the splash image, choose an image or a folder of images to make a slideshow
 
-# Downlod
+# Download
 Download [custom_splash_image_*version*.zip](https://github.com/Pazelock/Custom-Splash-Image/releases/tag/Latest) 
 
 # Usage
