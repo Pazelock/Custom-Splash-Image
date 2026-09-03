@@ -15,6 +15,9 @@ As far as I know, there is no way to display GIFs. Even if they are split into f
 # Usage
 
 Prepare your image(s). The aspect ratio is up to you, but if you want your artwork to be scaled like Blender's splash image, use a 2:1 aspect ratio (e.g. 1000 × 500 px).
+
+Allowed formats: `.png` `.jpg` `.jpeg`
+
 Sometimes, for a reason I couldn't figure out, a certain image will always crash Blender whenever it tries to display the splash screen. If this happens to you, continue to the **Issue Resolution** section.
 Navigate to `Edit > Preferences > Add-ons`.
 Search for `Custom Splash Image` and click the dropdown.
