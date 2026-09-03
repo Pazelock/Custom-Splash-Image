@@ -11,5 +11,7 @@ Navigate to `Edit > Preferences > Add-ons`.
 Search for `Custom Splash Image` and click the dropdown.
 
 Fill in the required data
+
 <img width="666" height="359" alt="image" src="https://github.com/user-attachments/assets/35dbf8a4-3483-477e-8da0-a31b30ff5a03" />
+
 You'll figure it out
